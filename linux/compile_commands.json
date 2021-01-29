@@ -1,0 +1,26 @@
+[
+    {
+        "arguments": [
+            "g++-8",
+            "-c",
+            "--std=c++17",
+            "-o",
+            "manumap",
+            "manumap.cpp"
+        ],
+        "directory": "/home/sar/src/project/manumap/linux",
+        "file": "manumap.cpp"
+    },
+    {
+        "arguments": [
+            "g++-8",
+            "-c",
+            "--std=c++17",
+            "-o",
+            "manumap",
+            "entry.cpp"
+        ],
+        "directory": "/home/sar/src/project/manumap/linux",
+        "file": "entry.cpp"
+    }
+]

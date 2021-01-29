@@ -1,0 +1,32 @@
+[
+ {
+  "directory": "/home/sar/src/project/manumap",
+  "arguments": [
+   "x86_64-w64-mingw32-g++",
+   "-static",
+   "-std=c++17",
+   "-I.",
+   "-c",
+   "entry.cpp",
+   "-o",
+   "entry.o",
+   "-lstdc++fs"
+  ],
+  "file": "entry.cpp"
+ },
+ {
+  "directory": "/home/sar/src/project/manumap",
+  "arguments": [
+   "x86_64-w64-mingw32-g++",
+   "-static",
+   "-std=c++17",
+   "-I.",
+   "-c",
+   "manumap.cpp",
+   "-o",
+   "manumap.o",
+   "-lstdc++fs"
+  ],
+  "file": "manumap.cpp"
+ }
+]

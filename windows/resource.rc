@@ -1,0 +1,4 @@
+#include "resource.h"
+
+LOAD32 RCDATA "load32.bin"
+LOAD64 RCDATA "load64.bin"
